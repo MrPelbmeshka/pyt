@@ -1,5 +1,5 @@
 def greet(name):
-    return f"Hello, {name}!"
+    return f"Hi, {name}!"
 
 def calculate_sum(a, b):
     return a + b
